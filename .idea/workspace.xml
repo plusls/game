@@ -11,7 +11,540 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f34baf70-a960-433f-9018-ad58b34e3cd1" name="Default" comment="" />
+    <list default="true" id="f34baf70-a960-433f-9018-ad58b34e3cd1" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/lib/libsfml-audio-s.a" afterPath="$PROJECT_DIR$/lib/SFML/lib/libsfml-audio-s.a" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/lib/libsfml-graphics-s.a" afterPath="$PROJECT_DIR$/lib/SFML/lib/libsfml-graphics-s.a" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/lib/libsfml-network-s.a" afterPath="$PROJECT_DIR$/lib/SFML/lib/libsfml-network-s.a" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/lib/libsfml-system-s.a" afterPath="$PROJECT_DIR$/lib/SFML/lib/libsfml-system-s.a" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/lib/libsfml-window-s.a" afterPath="$PROJECT_DIR$/lib/SFML/lib/libsfml-window-s.a" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/.editorconfig" afterPath="$PROJECT_DIR$/lib/SFML/.editorconfig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/CONTRIBUTING" afterPath="$PROJECT_DIR$/lib/SFML/CONTRIBUTING" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/changelog.txt" afterPath="$PROJECT_DIR$/lib/SFML/changelog.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/cmake/Config.cmake" afterPath="$PROJECT_DIR$/lib/SFML/cmake/Config.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/cmake/Macros.cmake" afterPath="$PROJECT_DIR$/lib/SFML/cmake/Macros.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/cmake/Modules/FindEGL.cmake" afterPath="$PROJECT_DIR$/lib/SFML/cmake/Modules/FindEGL.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/cmake/Modules/FindFLAC.cmake" afterPath="$PROJECT_DIR$/lib/SFML/cmake/Modules/FindFLAC.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/cmake/Modules/FindFreetype.cmake" afterPath="$PROJECT_DIR$/lib/SFML/cmake/Modules/FindFreetype.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/cmake/Modules/FindGLES.cmake" afterPath="$PROJECT_DIR$/lib/SFML/cmake/Modules/FindGLES.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/cmake/Modules/FindSFML.cmake" afterPath="$PROJECT_DIR$/lib/SFML/cmake/Modules/FindSFML.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/cmake/Modules/FindUDev.cmake" afterPath="$PROJECT_DIR$/lib/SFML/cmake/Modules/FindUDev.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/cmake/Modules/FindVorbis.cmake" afterPath="$PROJECT_DIR$/lib/SFML/cmake/Modules/FindVorbis.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/cmake/toolchains/android.toolchain.cmake" afterPath="$PROJECT_DIR$/lib/SFML/cmake/toolchains/android.toolchain.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/doc/doxyfile.in" afterPath="$PROJECT_DIR$/lib/SFML/doc/doxyfile.in" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/doc/doxygen.css" afterPath="$PROJECT_DIR$/lib/SFML/doc/doxygen.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/doc/footer.html" afterPath="$PROJECT_DIR$/lib/SFML/doc/footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/doc/header.html.in" afterPath="$PROJECT_DIR$/lib/SFML/doc/header.html.in" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/doc/mainpage.hpp" afterPath="$PROJECT_DIR$/lib/SFML/doc/mainpage.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/X11/X11.cpp" afterPath="$PROJECT_DIR$/lib/SFML/examples/X11/X11.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/android/AndroidManifest.xml" afterPath="$PROJECT_DIR$/lib/SFML/examples/android/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/android/jni/Android.mk" afterPath="$PROJECT_DIR$/lib/SFML/examples/android/jni/Android.mk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/android/jni/Application.mk" afterPath="$PROJECT_DIR$/lib/SFML/examples/android/jni/Application.mk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/android/jni/main.cpp" afterPath="$PROJECT_DIR$/lib/SFML/examples/android/jni/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/android/res/values/strings.xml" afterPath="$PROJECT_DIR$/lib/SFML/examples/android/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/cocoa/CocoaAppDelegate.h" afterPath="$PROJECT_DIR$/lib/SFML/examples/cocoa/CocoaAppDelegate.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/cocoa/CocoaAppDelegate.mm" afterPath="$PROJECT_DIR$/lib/SFML/examples/cocoa/CocoaAppDelegate.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/cocoa/MainMenu.xib" afterPath="$PROJECT_DIR$/lib/SFML/examples/cocoa/MainMenu.xib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/cocoa/NSString+stdstring.h" afterPath="$PROJECT_DIR$/lib/SFML/examples/cocoa/NSString+stdstring.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/cocoa/NSString+stdstring.mm" afterPath="$PROJECT_DIR$/lib/SFML/examples/cocoa/NSString+stdstring.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/cocoa/main.m" afterPath="$PROJECT_DIR$/lib/SFML/examples/cocoa/main.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/cocoa/readme.txt" afterPath="$PROJECT_DIR$/lib/SFML/examples/cocoa/readme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/cocoa/resources/Cocoa-Info.plist" afterPath="$PROJECT_DIR$/lib/SFML/examples/cocoa/resources/Cocoa-Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/cocoa/resources/Credits.rtf" afterPath="$PROJECT_DIR$/lib/SFML/examples/cocoa/resources/Credits.rtf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/ftp/Ftp.cpp" afterPath="$PROJECT_DIR$/lib/SFML/examples/ftp/Ftp.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/opengl/OpenGL.cpp" afterPath="$PROJECT_DIR$/lib/SFML/examples/opengl/OpenGL.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/pong/Pong.cpp" afterPath="$PROJECT_DIR$/lib/SFML/examples/pong/Pong.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/shader/Effect.hpp" afterPath="$PROJECT_DIR$/lib/SFML/examples/shader/Effect.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/shader/Shader.cpp" afterPath="$PROJECT_DIR$/lib/SFML/examples/shader/Shader.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/shader/resources/billboard.frag" afterPath="$PROJECT_DIR$/lib/SFML/examples/shader/resources/billboard.frag" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/shader/resources/billboard.geom" afterPath="$PROJECT_DIR$/lib/SFML/examples/shader/resources/billboard.geom" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/shader/resources/billboard.vert" afterPath="$PROJECT_DIR$/lib/SFML/examples/shader/resources/billboard.vert" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/shader/resources/blink.frag" afterPath="$PROJECT_DIR$/lib/SFML/examples/shader/resources/blink.frag" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/shader/resources/blur.frag" afterPath="$PROJECT_DIR$/lib/SFML/examples/shader/resources/blur.frag" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/shader/resources/edge.frag" afterPath="$PROJECT_DIR$/lib/SFML/examples/shader/resources/edge.frag" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/shader/resources/pixelate.frag" afterPath="$PROJECT_DIR$/lib/SFML/examples/shader/resources/pixelate.frag" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/shader/resources/storm.vert" afterPath="$PROJECT_DIR$/lib/SFML/examples/shader/resources/storm.vert" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/shader/resources/wave.vert" afterPath="$PROJECT_DIR$/lib/SFML/examples/shader/resources/wave.vert" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/sockets/Sockets.cpp" afterPath="$PROJECT_DIR$/lib/SFML/examples/sockets/Sockets.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/sockets/TCP.cpp" afterPath="$PROJECT_DIR$/lib/SFML/examples/sockets/TCP.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/sockets/UDP.cpp" afterPath="$PROJECT_DIR$/lib/SFML/examples/sockets/UDP.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/sound/Sound.cpp" afterPath="$PROJECT_DIR$/lib/SFML/examples/sound/Sound.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/sound_capture/SoundCapture.cpp" afterPath="$PROJECT_DIR$/lib/SFML/examples/sound_capture/SoundCapture.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/voip/Client.cpp" afterPath="$PROJECT_DIR$/lib/SFML/examples/voip/Client.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/voip/Server.cpp" afterPath="$PROJECT_DIR$/lib/SFML/examples/voip/Server.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/voip/VoIP.cpp" afterPath="$PROJECT_DIR$/lib/SFML/examples/voip/VoIP.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/win32/Win32.cpp" afterPath="$PROJECT_DIR$/lib/SFML/examples/win32/Win32.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/examples/window/Window.cpp" afterPath="$PROJECT_DIR$/lib/SFML/examples/window/Window.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/Android.mk" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/Android.mk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/AL/al.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/AL/al.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/AL/alc.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/AL/alc.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/AL/alext.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/AL/alext.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/AL/efx-creative.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/AL/efx-creative.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/AL/efx-presets.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/AL/efx-presets.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/AL/efx.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/AL/efx.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/FLAC/all.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/FLAC/all.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/FLAC/assert.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/FLAC/assert.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/FLAC/callback.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/FLAC/callback.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/FLAC/export.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/FLAC/export.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/FLAC/format.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/FLAC/format.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/FLAC/metadata.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/FLAC/metadata.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/FLAC/ordinals.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/FLAC/ordinals.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/FLAC/stream_decoder.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/FLAC/stream_decoder.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/FLAC/stream_encoder.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/FLAC/stream_encoder.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/config/ftconfig.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/config/ftconfig.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/config/ftheader.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/config/ftheader.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/config/ftmodule.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/config/ftmodule.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/config/ftoption.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/config/ftoption.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/config/ftstdlib.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/config/ftstdlib.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/freetype.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/freetype.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ft2build.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ft2build.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftadvanc.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftadvanc.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftautoh.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftautoh.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftbbox.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftbbox.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftbdf.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftbdf.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftbitmap.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftbitmap.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftbzip2.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftbzip2.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftcache.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftcache.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftcffdrv.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftcffdrv.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftchapters.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftchapters.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftcid.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftcid.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/fterrdef.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/fterrdef.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/fterrors.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/fterrors.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftgasp.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftgasp.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftglyph.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftglyph.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftgxval.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftgxval.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftgzip.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftgzip.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftimage.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftimage.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftincrem.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftincrem.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftlcdfil.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftlcdfil.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftlist.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftlist.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftlzw.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftlzw.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftmac.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftmac.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftmm.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftmm.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftmodapi.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftmodapi.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftmoderr.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftmoderr.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftotval.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftotval.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftoutln.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftoutln.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftpfr.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftpfr.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftrender.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftrender.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftsizes.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftsizes.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftsnames.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftsnames.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftstroke.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftstroke.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftsynth.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftsynth.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftsystem.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftsystem.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/fttrigon.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/fttrigon.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftttdrv.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftttdrv.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/fttypes.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/fttypes.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftwinfnt.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftwinfnt.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftxf86.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ftxf86.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/t1tables.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/t1tables.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ttnameid.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ttnameid.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/tttables.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/tttables.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/tttags.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/tttags.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ttunpat.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/freetype2/ttunpat.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/ogg/config_types.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/ogg/config_types.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/ogg/ogg.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/ogg/ogg.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/ogg/os_types.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/ogg/os_types.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/stb_image/stb_image.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/stb_image/stb_image.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/stb_image/stb_image_write.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/stb_image/stb_image_write.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/vorbis/codec.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/vorbis/codec.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/vorbis/vorbisenc.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/vorbis/vorbisenc.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/headers/vorbis/vorbisfile.h" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/headers/vorbis/vorbisfile.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/libs-osx/Frameworks/FLAC.framework/Versions/A/Resources/Info.plist" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/libs-osx/Frameworks/FLAC.framework/Versions/A/Resources/Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/libs-osx/Frameworks/OpenAL.framework/Versions/A/Resources/Info.plist" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/libs-osx/Frameworks/OpenAL.framework/Versions/A/Resources/Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/libs-osx/Frameworks/freetype.framework/Versions/A/Resources/Info.plist" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/libs-osx/Frameworks/freetype.framework/Versions/A/Resources/Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/libs-osx/Frameworks/ogg.framework/Versions/A/Resources/Info.plist" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/libs-osx/Frameworks/ogg.framework/Versions/A/Resources/Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/libs-osx/Frameworks/vorbis.framework/Versions/A/Resources/Info.plist" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/libs-osx/Frameworks/vorbis.framework/Versions/A/Resources/Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/libs-osx/Frameworks/vorbisenc.framework/Versions/A/Resources/Info.plist" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/libs-osx/Frameworks/vorbisenc.framework/Versions/A/Resources/Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/extlibs/libs-osx/Frameworks/vorbisfile.framework/Versions/A/Resources/Info.plist" afterPath="$PROJECT_DIR$/lib/SFML/extlibs/libs-osx/Frameworks/vorbisfile.framework/Versions/A/Resources/Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Audio.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Audio.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Audio/AlResource.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Audio/AlResource.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Audio/Export.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Audio/Export.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Audio/InputSoundFile.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Audio/InputSoundFile.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Audio/Listener.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Audio/Listener.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Audio/Music.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Audio/Music.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Audio/OutputSoundFile.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Audio/OutputSoundFile.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Audio/Sound.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Audio/Sound.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Audio/SoundBuffer.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Audio/SoundBuffer.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Audio/SoundBufferRecorder.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Audio/SoundBufferRecorder.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Audio/SoundFileFactory.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Audio/SoundFileFactory.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Audio/SoundFileFactory.inl" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Audio/SoundFileFactory.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Audio/SoundFileReader.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Audio/SoundFileReader.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Audio/SoundFileWriter.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Audio/SoundFileWriter.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Audio/SoundRecorder.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Audio/SoundRecorder.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Audio/SoundSource.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Audio/SoundSource.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Audio/SoundStream.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Audio/SoundStream.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Config.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Config.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/BlendMode.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/BlendMode.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/CircleShape.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/CircleShape.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/Color.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/Color.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/ConvexShape.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/ConvexShape.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/Drawable.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/Drawable.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/Export.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/Export.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/Font.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/Font.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/Glsl.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/Glsl.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/Glsl.inl" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/Glsl.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/Glyph.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/Glyph.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/Image.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/Image.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/PrimitiveType.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/PrimitiveType.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/Rect.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/Rect.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/Rect.inl" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/Rect.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/RectangleShape.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/RectangleShape.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/RenderStates.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/RenderStates.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/RenderTarget.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/RenderTarget.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/RenderTexture.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/RenderTexture.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/RenderWindow.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/RenderWindow.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/Shader.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/Shader.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/Shape.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/Shape.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/Sprite.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/Sprite.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/Text.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/Text.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/Texture.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/Texture.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/Transform.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/Transform.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/Transformable.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/Transformable.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/Vertex.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/Vertex.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/VertexArray.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/VertexArray.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/View.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Graphics/View.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Main.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Main.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Network.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Network.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Network/Export.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Network/Export.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Network/Ftp.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Network/Ftp.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Network/Http.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Network/Http.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Network/IpAddress.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Network/IpAddress.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Network/Packet.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Network/Packet.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Network/Socket.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Network/Socket.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Network/SocketHandle.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Network/SocketHandle.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Network/SocketSelector.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Network/SocketSelector.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Network/TcpListener.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Network/TcpListener.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Network/TcpSocket.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Network/TcpSocket.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Network/UdpSocket.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Network/UdpSocket.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/OpenGL.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/OpenGL.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/System.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/System.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/System/Clock.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/System/Clock.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/System/Err.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/System/Err.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/System/Export.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/System/Export.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/System/FileInputStream.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/System/FileInputStream.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/System/InputStream.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/System/InputStream.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/System/Lock.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/System/Lock.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/System/MemoryInputStream.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/System/MemoryInputStream.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/System/Mutex.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/System/Mutex.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/System/NativeActivity.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/System/NativeActivity.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/System/NonCopyable.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/System/NonCopyable.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/System/Sleep.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/System/Sleep.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/System/String.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/System/String.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/System/String.inl" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/System/String.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/System/Thread.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/System/Thread.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/System/Thread.inl" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/System/Thread.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/System/ThreadLocal.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/System/ThreadLocal.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/System/ThreadLocalPtr.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/System/ThreadLocalPtr.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/System/ThreadLocalPtr.inl" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/System/ThreadLocalPtr.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/System/Time.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/System/Time.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/System/Utf.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/System/Utf.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/System/Utf.inl" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/System/Utf.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/System/Vector2.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/System/Vector2.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/System/Vector2.inl" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/System/Vector2.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/System/Vector3.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/System/Vector3.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/System/Vector3.inl" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/System/Vector3.inl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Window.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Window.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Window/Context.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Window/Context.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Window/ContextSettings.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Window/ContextSettings.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Window/Event.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Window/Event.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Window/Export.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Window/Export.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Window/GlResource.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Window/GlResource.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Window/Joystick.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Window/Joystick.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Window/Keyboard.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Window/Keyboard.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Window/Mouse.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Window/Mouse.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Window/Sensor.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Window/Sensor.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Window/Touch.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Window/Touch.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Window/VideoMode.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Window/VideoMode.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Window/Window.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Window/Window.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Window/WindowHandle.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Window/WindowHandle.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/include/SFML/Window/WindowStyle.hpp" afterPath="$PROJECT_DIR$/lib/SFML/include/SFML/Window/WindowStyle.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/license.txt" afterPath="$PROJECT_DIR$/lib/SFML/license.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/readme.txt" afterPath="$PROJECT_DIR$/lib/SFML/readme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Android.mk" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Android.mk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/ALCheck.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/ALCheck.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/ALCheck.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/ALCheck.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/AlResource.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/AlResource.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/AudioDevice.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/AudioDevice.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/AudioDevice.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/AudioDevice.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/InputSoundFile.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/InputSoundFile.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/Listener.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/Listener.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/Music.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/Music.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/OutputSoundFile.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/OutputSoundFile.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/Sound.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/Sound.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/SoundBuffer.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/SoundBuffer.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/SoundBufferRecorder.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/SoundBufferRecorder.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/SoundFileFactory.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/SoundFileFactory.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/SoundFileReaderFlac.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/SoundFileReaderFlac.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/SoundFileReaderFlac.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/SoundFileReaderFlac.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/SoundFileReaderOgg.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/SoundFileReaderOgg.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/SoundFileReaderOgg.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/SoundFileReaderOgg.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/SoundFileReaderWav.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/SoundFileReaderWav.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/SoundFileReaderWav.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/SoundFileReaderWav.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/SoundFileWriterFlac.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/SoundFileWriterFlac.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/SoundFileWriterFlac.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/SoundFileWriterFlac.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/SoundFileWriterOgg.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/SoundFileWriterOgg.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/SoundFileWriterOgg.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/SoundFileWriterOgg.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/SoundFileWriterWav.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/SoundFileWriterWav.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/SoundFileWriterWav.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/SoundFileWriterWav.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/SoundRecorder.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/SoundRecorder.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/SoundSource.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/SoundSource.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/SoundStream.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Audio/SoundStream.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/BlendMode.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/BlendMode.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/CircleShape.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/CircleShape.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/Color.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/Color.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/ConvexShape.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/ConvexShape.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/Font.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/Font.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/GLCheck.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/GLCheck.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/GLCheck.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/GLCheck.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/GLExtensions.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/GLExtensions.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/GLExtensions.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/GLExtensions.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/GLExtensions.txt" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/GLExtensions.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/GLLoader.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/GLLoader.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/GLLoader.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/GLLoader.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/Glsl.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/Glsl.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/Image.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/Image.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/ImageLoader.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/ImageLoader.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/ImageLoader.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/ImageLoader.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/RectangleShape.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/RectangleShape.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/RenderStates.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/RenderStates.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/RenderTarget.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/RenderTarget.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/RenderTexture.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/RenderTexture.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/RenderTextureImpl.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/RenderTextureImpl.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/RenderTextureImpl.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/RenderTextureImpl.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/RenderTextureImplDefault.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/RenderTextureImplDefault.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/RenderTextureImplDefault.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/RenderTextureImplDefault.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/RenderTextureImplFBO.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/RenderTextureImplFBO.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/RenderTextureImplFBO.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/RenderTextureImplFBO.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/RenderWindow.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/RenderWindow.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/Shader.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/Shader.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/Shape.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/Shape.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/Sprite.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/Sprite.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/Text.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/Text.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/Texture.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/Texture.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/TextureSaver.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/TextureSaver.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/TextureSaver.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/TextureSaver.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/Transform.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/Transform.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/Transformable.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/Transformable.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/Vertex.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/Vertex.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/VertexArray.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/VertexArray.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/View.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Graphics/View.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Main/MainAndroid.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Main/MainAndroid.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Main/MainWin32.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Main/MainWin32.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Main/MainiOS.mm" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Main/MainiOS.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Main/SFMLActivity.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Main/SFMLActivity.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Network/Ftp.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Network/Ftp.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Network/Http.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Network/Http.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Network/IpAddress.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Network/IpAddress.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Network/Packet.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Network/Packet.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Network/Socket.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Network/Socket.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Network/SocketImpl.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Network/SocketImpl.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Network/SocketSelector.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Network/SocketSelector.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Network/TcpListener.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Network/TcpListener.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Network/TcpSocket.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Network/TcpSocket.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Network/UdpSocket.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Network/UdpSocket.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Network/Unix/SocketImpl.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Network/Unix/SocketImpl.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Network/Unix/SocketImpl.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Network/Unix/SocketImpl.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Network/Win32/SocketImpl.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Network/Win32/SocketImpl.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Network/Win32/SocketImpl.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Network/Win32/SocketImpl.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Android/Activity.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Android/Activity.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Android/Activity.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Android/Activity.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Android/NativeActivity.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Android/NativeActivity.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Android/ResourceStream.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Android/ResourceStream.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Android/ResourceStream.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Android/ResourceStream.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Clock.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Clock.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Err.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Err.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/System/FileInputStream.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/System/FileInputStream.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Lock.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Lock.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/System/MemoryInputStream.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/System/MemoryInputStream.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Mutex.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Mutex.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Sleep.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Sleep.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/System/String.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/System/String.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Thread.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Thread.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/System/ThreadLocal.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/System/ThreadLocal.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Time.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Time.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Unix/ClockImpl.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Unix/ClockImpl.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Unix/ClockImpl.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Unix/ClockImpl.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Unix/MutexImpl.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Unix/MutexImpl.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Unix/MutexImpl.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Unix/MutexImpl.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Unix/SleepImpl.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Unix/SleepImpl.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Unix/SleepImpl.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Unix/SleepImpl.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Unix/ThreadImpl.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Unix/ThreadImpl.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Unix/ThreadImpl.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Unix/ThreadImpl.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Unix/ThreadLocalImpl.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Unix/ThreadLocalImpl.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Unix/ThreadLocalImpl.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Unix/ThreadLocalImpl.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Win32/ClockImpl.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Win32/ClockImpl.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Win32/ClockImpl.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Win32/ClockImpl.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Win32/MutexImpl.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Win32/MutexImpl.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Win32/MutexImpl.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Win32/MutexImpl.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Win32/SleepImpl.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Win32/SleepImpl.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Win32/SleepImpl.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Win32/SleepImpl.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Win32/ThreadImpl.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Win32/ThreadImpl.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Win32/ThreadImpl.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Win32/ThreadImpl.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Win32/ThreadLocalImpl.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Win32/ThreadLocalImpl.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Win32/ThreadLocalImpl.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/System/Win32/ThreadLocalImpl.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Android/InputImpl.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Android/InputImpl.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Android/InputImpl.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Android/InputImpl.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Android/JoystickImpl.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Android/JoystickImpl.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Android/JoystickImpl.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Android/JoystickImpl.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Android/SensorImpl.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Android/SensorImpl.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Android/SensorImpl.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Android/SensorImpl.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Android/VideoModeImpl.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Android/VideoModeImpl.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Android/WindowImplAndroid.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Android/WindowImplAndroid.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Android/WindowImplAndroid.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Android/WindowImplAndroid.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Context.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Context.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/EGLCheck.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/EGLCheck.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/EGLCheck.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/EGLCheck.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/EglContext.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/EglContext.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/EglContext.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/EglContext.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/FreeBSD/JoystickImpl.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/FreeBSD/JoystickImpl.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/FreeBSD/JoystickImpl.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/FreeBSD/JoystickImpl.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/GlContext.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/GlContext.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/GlContext.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/GlContext.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/GlResource.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/GlResource.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/InputImpl.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/InputImpl.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Joystick.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Joystick.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/JoystickImpl.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/JoystickImpl.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/JoystickManager.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/JoystickManager.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/JoystickManager.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/JoystickManager.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Keyboard.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Keyboard.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Mouse.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Mouse.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/AutoreleasePoolWrapper.h" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/AutoreleasePoolWrapper.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/AutoreleasePoolWrapper.mm" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/AutoreleasePoolWrapper.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/HIDInputManager.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/HIDInputManager.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/HIDInputManager.mm" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/HIDInputManager.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/HIDJoystickManager.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/HIDJoystickManager.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/HIDJoystickManager.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/HIDJoystickManager.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/InputImpl.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/InputImpl.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/InputImpl.mm" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/InputImpl.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/JoystickImpl.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/JoystickImpl.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/JoystickImpl.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/JoystickImpl.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/NSImage+raw.h" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/NSImage+raw.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/NSImage+raw.mm" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/NSImage+raw.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFApplication.h" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFApplication.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFApplication.m" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFApplication.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFApplicationDelegate.h" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFApplicationDelegate.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFApplicationDelegate.m" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFApplicationDelegate.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFContext.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFContext.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFContext.mm" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFContext.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFKeyboardModifiersHelper.h" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFKeyboardModifiersHelper.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFKeyboardModifiersHelper.mm" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFKeyboardModifiersHelper.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFOpenGLView+keyboard.mm" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFOpenGLView+keyboard.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFOpenGLView+keyboard_priv.h" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFOpenGLView+keyboard_priv.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFOpenGLView+mouse.mm" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFOpenGLView+mouse.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFOpenGLView+mouse_priv.h" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFOpenGLView+mouse_priv.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFOpenGLView.h" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFOpenGLView.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFOpenGLView.mm" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFOpenGLView.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFSilentResponder.h" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFSilentResponder.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFSilentResponder.m" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFSilentResponder.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFViewController.h" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFViewController.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFViewController.mm" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFViewController.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFWindow.h" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFWindow.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFWindow.m" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFWindow.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFWindowController.h" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFWindowController.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFWindowController.mm" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SFWindowController.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/Scaling.h" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/Scaling.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SensorImpl.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SensorImpl.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SensorImpl.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/SensorImpl.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/VideoModeImpl.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/VideoModeImpl.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/WindowImplCocoa.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/WindowImplCocoa.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/WindowImplCocoa.mm" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/WindowImplCocoa.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/WindowImplDelegateProtocol.h" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/WindowImplDelegateProtocol.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/cg_sf_conversion.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/cg_sf_conversion.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/cg_sf_conversion.mm" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/cg_sf_conversion.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/cpp_objc_conversion.h" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/cpp_objc_conversion.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/cpp_objc_conversion.mm" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/OSX/cpp_objc_conversion.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Sensor.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Sensor.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/SensorImpl.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/SensorImpl.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/SensorManager.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/SensorManager.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/SensorManager.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/SensorManager.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Touch.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Touch.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Unix/Display.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Unix/Display.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Unix/Display.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Unix/Display.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Unix/GlxContext.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Unix/GlxContext.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Unix/GlxContext.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Unix/GlxContext.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Unix/GlxExtensions.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Unix/GlxExtensions.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Unix/GlxExtensions.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Unix/GlxExtensions.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Unix/GlxExtensions.txt" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Unix/GlxExtensions.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Unix/InputImpl.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Unix/InputImpl.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Unix/InputImpl.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Unix/InputImpl.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Unix/JoystickImpl.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Unix/JoystickImpl.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Unix/JoystickImpl.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Unix/JoystickImpl.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Unix/SensorImpl.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Unix/SensorImpl.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Unix/SensorImpl.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Unix/SensorImpl.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Unix/VideoModeImpl.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Unix/VideoModeImpl.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Unix/WindowImplX11.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Unix/WindowImplX11.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Unix/WindowImplX11.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Unix/WindowImplX11.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/VideoMode.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/VideoMode.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/VideoModeImpl.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/VideoModeImpl.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Win32/InputImpl.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Win32/InputImpl.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Win32/InputImpl.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Win32/InputImpl.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Win32/JoystickImpl.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Win32/JoystickImpl.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Win32/JoystickImpl.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Win32/JoystickImpl.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Win32/SensorImpl.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Win32/SensorImpl.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Win32/SensorImpl.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Win32/SensorImpl.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Win32/VideoModeImpl.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Win32/VideoModeImpl.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Win32/WglContext.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Win32/WglContext.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Win32/WglContext.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Win32/WglContext.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Win32/WglExtensions.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Win32/WglExtensions.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Win32/WglExtensions.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Win32/WglExtensions.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Win32/WglExtensions.txt" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Win32/WglExtensions.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Win32/WindowImplWin32.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Win32/WindowImplWin32.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Win32/WindowImplWin32.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Win32/WindowImplWin32.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Window.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/Window.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/WindowImpl.cpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/WindowImpl.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/WindowImpl.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/WindowImpl.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/EaglContext.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/EaglContext.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/EaglContext.mm" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/EaglContext.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/InputImpl.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/InputImpl.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/InputImpl.mm" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/InputImpl.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/JoystickImpl.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/JoystickImpl.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/JoystickImpl.mm" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/JoystickImpl.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/ObjCType.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/ObjCType.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/SFAppDelegate.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/SFAppDelegate.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/SFAppDelegate.mm" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/SFAppDelegate.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/SFMain.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/SFMain.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/SFMain.mm" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/SFMain.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/SFView.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/SFView.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/SFView.mm" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/SFView.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/SFViewController.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/SFViewController.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/SFViewController.mm" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/SFViewController.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/SensorImpl.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/SensorImpl.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/SensorImpl.mm" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/SensorImpl.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/VideoModeImpl.mm" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/VideoModeImpl.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/WindowImplUIKit.hpp" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/WindowImplUIKit.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/WindowImplUIKit.mm" afterPath="$PROJECT_DIR$/lib/SFML/src/SFML/Window/iOS/WindowImplUIKit.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/tools/android/clean_all.sh" afterPath="$PROJECT_DIR$/lib/SFML/tools/android/clean_all.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/tools/android/compile_arm-v7a.sh" afterPath="$PROJECT_DIR$/lib/SFML/tools/android/compile_arm-v7a.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/tools/android/compile_arm.sh" afterPath="$PROJECT_DIR$/lib/SFML/tools/android/compile_arm.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/tools/android/compile_libs.sh" afterPath="$PROJECT_DIR$/lib/SFML/tools/android/compile_libs.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/tools/android/compile_mips.sh" afterPath="$PROJECT_DIR$/lib/SFML/tools/android/compile_mips.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/tools/android/compile_x86.sh" afterPath="$PROJECT_DIR$/lib/SFML/tools/android/compile_x86.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/tools/android/create_toolchains.sh" afterPath="$PROJECT_DIR$/lib/SFML/tools/android/create_toolchains.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/tools/android/download_sources.sh" afterPath="$PROJECT_DIR$/lib/SFML/tools/android/download_sources.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/tools/android/make_all.sh" afterPath="$PROJECT_DIR$/lib/SFML/tools/android/make_all.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/tools/android/patches/remove-so-version-suffix.diff" afterPath="$PROJECT_DIR$/lib/SFML/tools/android/patches/remove-so-version-suffix.diff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/tools/android/readme.txt" afterPath="$PROJECT_DIR$/lib/SFML/tools/android/readme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/tools/pkg-config/sfml-all.pc.in" afterPath="$PROJECT_DIR$/lib/SFML/tools/pkg-config/sfml-all.pc.in" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/tools/pkg-config/sfml-audio.pc.in" afterPath="$PROJECT_DIR$/lib/SFML/tools/pkg-config/sfml-audio.pc.in" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/tools/pkg-config/sfml-graphics.pc.in" afterPath="$PROJECT_DIR$/lib/SFML/tools/pkg-config/sfml-graphics.pc.in" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/tools/pkg-config/sfml-network.pc.in" afterPath="$PROJECT_DIR$/lib/SFML/tools/pkg-config/sfml-network.pc.in" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/tools/pkg-config/sfml-system.pc.in" afterPath="$PROJECT_DIR$/lib/SFML/tools/pkg-config/sfml-system.pc.in" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/tools/pkg-config/sfml-window.pc.in" afterPath="$PROJECT_DIR$/lib/SFML/tools/pkg-config/sfml-window.pc.in" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/tools/xcode/templates/SFML/SFML App.xctemplate/ResourcePath.hpp" afterPath="$PROJECT_DIR$/lib/SFML/tools/xcode/templates/SFML/SFML App.xctemplate/ResourcePath.hpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/tools/xcode/templates/SFML/SFML App.xctemplate/ResourcePath.mm" afterPath="$PROJECT_DIR$/lib/SFML/tools/xcode/templates/SFML/SFML App.xctemplate/ResourcePath.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/tools/xcode/templates/SFML/SFML App.xctemplate/TemplateInfo.plist.in" afterPath="$PROJECT_DIR$/lib/SFML/tools/xcode/templates/SFML/SFML App.xctemplate/TemplateInfo.plist.in" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/tools/xcode/templates/SFML/SFML App.xctemplate/main.cpp" afterPath="$PROJECT_DIR$/lib/SFML/tools/xcode/templates/SFML/SFML App.xctemplate/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/tools/xcode/templates/SFML/SFML Base.xctemplate/TemplateInfo.plist" afterPath="$PROJECT_DIR$/lib/SFML/tools/xcode/templates/SFML/SFML Base.xctemplate/TemplateInfo.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/tools/xcode/templates/SFML/SFML Bundle.xctemplate/TemplateInfo.plist" afterPath="$PROJECT_DIR$/lib/SFML/tools/xcode/templates/SFML/SFML Bundle.xctemplate/TemplateInfo.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/tools/xcode/templates/SFML/SFML CLT.xctemplate/TemplateInfo.plist" afterPath="$PROJECT_DIR$/lib/SFML/tools/xcode/templates/SFML/SFML CLT.xctemplate/TemplateInfo.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/tools/xcode/templates/SFML/SFML CLT.xctemplate/main.cpp" afterPath="$PROJECT_DIR$/lib/SFML/tools/xcode/templates/SFML/SFML CLT.xctemplate/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/tools/xcode/templates/SFML/SFML Compiler.xctemplate/TemplateInfo.plist.in" afterPath="$PROJECT_DIR$/lib/SFML/tools/xcode/templates/SFML/SFML Compiler.xctemplate/TemplateInfo.plist.in" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/tools/xcode/templates/SFML/SFML Linker.xctemplate/TemplateInfo.plist" afterPath="$PROJECT_DIR$/lib/SFML/tools/xcode/templates/SFML/SFML Linker.xctemplate/TemplateInfo.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SFML/tools/xcode/templates/readme.txt" afterPath="$PROJECT_DIR$/lib/SFML/tools/xcode/templates/readme.txt" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug1/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,10 +560,9 @@
       <file leaf-file-name="FlyingObject.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FlyingObject.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2460">
+            <state relative-caret-position="1311">
               <caret line="164" column="30" lean-forward="false" selection-start-line="164" selection-start-column="30" selection-end-line="164" selection-end-column="30" />
               <folding>
-                <element signature="e#40#65#0" expanded="true" />
                 <element signature="e#2178#2437#0" expanded="false" />
                 <element signature="e#2439#2530#0" expanded="false" />
                 <element signature="e#2580#3615#0" expanded="false" />
@@ -42,8 +574,28 @@
       <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="32" column="36" lean-forward="false" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="36" />
+            <state relative-caret-position="137">
+              <caret line="37" column="7" lean-forward="false" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindSFML.cmake" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/SFML/cmake/Modules/FindSFML.cmake">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="245" column="0" lean-forward="false" selection-start-line="245" selection-start-column="0" selection-end-line="245" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/SFML/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="382">
+              <caret line="324" column="70" lean-forward="false" selection-start-line="324" selection-start-column="12" selection-end-line="324" selection-end-column="70" />
               <folding />
             </state>
           </provider>
@@ -52,7 +604,7 @@
       <file leaf-file-name="GameControl.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GameControl.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="230">
               <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
@@ -62,7 +614,7 @@
       <file leaf-file-name="GameControl.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GameControl.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3870">
+            <state relative-caret-position="5934">
               <caret line="258" column="25" lean-forward="false" selection-start-line="258" selection-start-column="25" selection-end-line="258" selection-end-column="25" />
               <folding>
                 <element signature="e#40#64#0" expanded="true" />
@@ -75,7 +627,7 @@
       <file leaf-file-name="Textures.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Textures.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="915">
+            <state relative-caret-position="1403">
               <caret line="61" column="38" lean-forward="false" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="38" />
               <folding />
             </state>
@@ -85,7 +637,7 @@
       <file leaf-file-name="Textures.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Textures.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
+            <state relative-caret-position="1058">
               <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
               <folding />
             </state>
@@ -95,7 +647,7 @@
       <file leaf-file-name="GameEvent.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GameEvent.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
+            <state relative-caret-position="690">
               <caret line="30" column="16" lean-forward="false" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
               <folding>
                 <element signature="e#89#104#0" expanded="true" />
@@ -107,22 +659,10 @@
       <file leaf-file-name="GameEvent.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GameEvent.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
+            <state relative-caret-position="299">
               <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding>
                 <element signature="e#39#61#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Draw.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Draw.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="11" lean-forward="false" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-              <folding>
-                <element signature="e#40#57#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -132,9 +672,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>P</find>
-      <find>PL</find>
-      <find>PLA</find>
       <find>PLAY</find>
       <find>PLAY_GAM</find>
       <find>PLAY_GA</find>
@@ -158,10 +695,13 @@
       <find>root</find>
       <find>FIND_SFML_PATHS</find>
       <find>message</find>
-      <find>find_sfml_dependency</find>
       <find>SFML_STATIC_LIBRARIES</find>
       <find>OPENAL_LIBRARY</find>
+      <find>static</find>
+      <find>DESTINATION</find>
       <find>friendlyname</find>
+      <find>find_sfml_dependency</find>
+      <find>22222</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -193,6 +733,7 @@
         <option value="$PROJECT_DIR$/src/FlyingObject.cpp" />
         <option value="$PROJECT_DIR$/src/GameEvent.cpp" />
         <option value="$PROJECT_DIR$/SFML/cmake/Modules/FindSFML.cmake" />
+        <option value="$PROJECT_DIR$/lib/SFML/cmake/Modules/FindSFML.cmake" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
       </list>
     </option>
@@ -205,10 +746,10 @@
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1" />
-    <option name="y" value="25" />
-    <option name="width" value="1362" />
-    <option name="height" value="744" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -291,7 +832,7 @@
     <property name="settings.editor.selected.configurable" value="CMakeSettings" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="ObjectiveC" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../play_plane" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="SearchEverywhereHistoryKey" value="board&#9;null&#9;null" />
   </component>
   <component name="RecentsManager">
@@ -555,11 +1096,12 @@
       <workItem from="1496594303984" duration="1146000" />
       <workItem from="1496595467316" duration="13000" />
       <workItem from="1496595548157" duration="4287000" />
+      <workItem from="1496600953922" duration="3306000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137722000" />
+    <option name="totallyTimeSpent" value="141028000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -571,20 +1113,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="25" width="1362" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2800609" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28379828" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32961586" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32686085" sideWeight="0.49695587" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29935277" sideWeight="0.49695587" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3266745" sideWeight="0.49695587" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2972973" sideWeight="0.49695587" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30112723" sideWeight="0.5030441" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3278496" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902467" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3974152" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -629,14 +1170,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/EventProcess.h" />
     <entry file="file://$PROJECT_DIR$/src/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
@@ -679,13 +1212,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/include/c++/6/ext/new_allocator.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1665">
-          <caret line="111" column="15" lean-forward="true" selection-start-line="111" selection-start-column="15" selection-end-line="111" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file:///usr/include/c++/6/ext/new_allocator.h" />
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -693,13 +1220,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/include/c++/6/ext/new_allocator.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1635">
-          <caret line="109" column="0" lean-forward="false" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file:///usr/include/c++/6/ext/new_allocator.h" />
     <entry file="file://$PROJECT_DIR$/src/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -744,13 +1265,7 @@
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.cpp" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.cpp" />
-    <entry file="file:///usr/include/c++/6/ext/new_allocator.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="129" column="6" lean-forward="false" selection-start-line="129" selection-start-column="6" selection-end-line="129" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file:///usr/include/c++/6/ext/new_allocator.h" />
     <entry file="file://$PROJECT_DIR$/src/Initialize.cpp" />
     <entry file="file://$PROJECT_DIR$/src/Initialize.h" />
     <entry file="file://$PROJECT_DIR$/src/EventProcess.h" />
@@ -806,7 +1321,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Draw.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
+        <state relative-caret-position="437">
           <caret line="19" column="11" lean-forward="false" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
           <folding>
             <element signature="e#40#57#0" expanded="true" />
@@ -816,7 +1331,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GameControl.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="230">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
@@ -824,7 +1339,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Textures.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
+        <state relative-caret-position="1403">
           <caret line="61" column="38" lean-forward="false" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="38" />
           <folding />
         </state>
@@ -832,7 +1347,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Textures.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
+        <state relative-caret-position="1058">
           <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
           <folding />
         </state>
@@ -840,7 +1355,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GameEvent.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
+        <state relative-caret-position="690">
           <caret line="30" column="16" lean-forward="false" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
           <folding>
             <element signature="e#89#104#0" expanded="true" />
@@ -850,7 +1365,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GameControl.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3870">
+        <state relative-caret-position="5934">
           <caret line="258" column="25" lean-forward="false" selection-start-line="258" selection-start-column="25" selection-end-line="258" selection-end-column="25" />
           <folding>
             <element signature="e#40#64#0" expanded="true" />
@@ -861,7 +1376,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GameEvent.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
+        <state relative-caret-position="299">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding>
             <element signature="e#39#61#0" expanded="true" />
@@ -869,19 +1384,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SFML/share/cmake/Modules/FindSFML.cmake">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-236">
-          <caret line="33" column="72" lean-forward="false" selection-start-line="33" selection-start-column="63" selection-end-line="33" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/SFML/share/cmake/Modules/FindSFML.cmake" />
+    <entry file="file://$PROJECT_DIR$/SFML-2.4.2/share/SFML/cmake/Modules/FindSFML.cmake" />
+    <entry file="file://$PROJECT_DIR$/SFML/cmake/Modules/FindSFML.cmake" />
     <entry file="file://$PROJECT_DIR$/src/FlyingObject.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2460">
+        <state relative-caret-position="1311">
           <caret line="164" column="30" lean-forward="false" selection-start-line="164" selection-start-column="30" selection-end-line="164" selection-end-column="30" />
           <folding>
-            <element signature="e#40#65#0" expanded="true" />
             <element signature="e#2178#2437#0" expanded="false" />
             <element signature="e#2439#2530#0" expanded="false" />
             <element signature="e#2580#3615#0" expanded="false" />
@@ -889,25 +1399,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SFML-2.4.2/share/SFML/cmake/Modules/FindSFML.cmake">
+    <entry file="file://$PROJECT_DIR$/lib/SFML/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="78" selection-end-column="35" />
+        <state relative-caret-position="382">
+          <caret line="324" column="70" lean-forward="false" selection-start-line="324" selection-start-column="12" selection-end-line="324" selection-end-column="70" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SFML/cmake/Modules/FindSFML.cmake">
+    <entry file="file://$PROJECT_DIR$/lib/SFML/cmake/Modules/FindSFML.cmake">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="248" column="22" lean-forward="false" selection-start-line="248" selection-start-column="22" selection-end-line="248" selection-end-column="22" />
+        <state relative-caret-position="175">
+          <caret line="245" column="0" lean-forward="false" selection-start-line="245" selection-start-column="0" selection-end-line="245" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="32" column="36" lean-forward="false" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="36" />
+        <state relative-caret-position="137">
+          <caret line="37" column="7" lean-forward="false" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
           <folding />
         </state>
       </provider>

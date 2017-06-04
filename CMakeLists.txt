@@ -21,21 +21,19 @@ set(CMAKE_CXX_FLAGS_DEBUG "$ENV{CXXFLAGS} -O0 -Wall -g")
 #release
 set(CMAKE_CXX_FLAGS_RELEASE "$ENV{CXXFLAGS} -O3 -Wall")
 
+#Set CMake's module path to find the SFML Lib
+set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} "${PROJECT_SOURCE_DIR}/lib/SFML/cmake/Modules/")
+set(SFML_ROOT "lib/SFML/")
+
 
 if(${CMAKE_SYSTEM_NAME} MATCHES "Linux")
-    #Set CMake's module path to find the SFML Lib
-    #set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} "/usr/share/SFML/cmake/Modules/")
-    set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} "${PROJECT_SOURCE_DIR}/lib/SFML/cmake/Modules/")
-    set(SFML_ROOT "lib/SFML/")
 
 
 elseif(${CMAKE_SYSTEM_NAME} MATCHES "Windows")
     #Set CMake's module path to find the SFML Lib
-    SET(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} "C:\\lib\\SFML-2.4.2\\cmake\\Modules")
-    SET(CMAKE_PREFIX_PATH ${CMAKE_PREFIX_PATH} "C:\\lib\\SFML-2.4.2")
-    SET(SFML_ROOT "C:\\lib\\SFML-2.4.2")
-
-
+    #加入的目录是依赖的库的目录
+    set(SFML_ROOT ${SFML_ROOT} "lib/SFML/extlibs/libs-mingw/x64/")
+    #windows下默认静态编译
     SET(SFML_STATIC_LIBRARIES ON)
 endif()
 
