@@ -7,23 +7,29 @@ set(SOURCE_FILES src/main.cpp src/GameControl.cpp src/GameControl.h src/FlyingOb
 add_executable(game ${SOURCE_FILES})
 
 #static
-#SET(SFML_STATIC_LIBRARIES TRUE)
+#set(SFML_STATIC_LIBRARIES TRUE)
+#set(CMAKE_FIND_LIBRARY_SUFFIXES .a${CMAKE_FIND_LIBRARY_SUFFIXES})
+
 
 #build_type
-SET(CMAKE_BUILD_TYPE "DEBUG")
+set(CMAKE_BUILD_TYPE "DEBUG")
 #SET(CMAKE_BUILD_TYPE "RELEASE")
 
 #debug
-SET(CMAKE_CXX_FLAGS_DEBUG "$ENV{CXXFLAGS} -O0 -Wall -g")
+set(CMAKE_CXX_FLAGS_DEBUG "$ENV{CXXFLAGS} -O0 -Wall -g")
 
 #release
-SET(CMAKE_CXX_FLAGS_RELEASE "$ENV{CXXFLAGS} -O3 -Wall")
+set(CMAKE_CXX_FLAGS_RELEASE "$ENV{CXXFLAGS} -O3 -Wall")
 
-if(UNIX)
+
+if(${CMAKE_SYSTEM_NAME} MATCHES "Linux")
     #Set CMake's module path to find the SFML Lib
-    SET(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} "/usr/share/SFML/cmake/Modules/")
+    #set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} "/usr/share/SFML/cmake/Modules/")
+    set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} "${PROJECT_SOURCE_DIR}/SFML/cmake/Modules/")
+    set(SFML_ROOT "SFML/")
 
-elseif (Windows)
+
+elseif(${CMAKE_SYSTEM_NAME} MATCHES "Windows")
     #Set CMake's module path to find the SFML Lib
     SET(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} "C:\\lib\\SFML-2.4.2\\cmake\\Modules")
     SET(CMAKE_PREFIX_PATH ${CMAKE_PREFIX_PATH} "C:\\lib\\SFML-2.4.2")
@@ -31,31 +37,27 @@ elseif (Windows)
 
 
     SET(SFML_STATIC_LIBRARIES ON)
+endif()
 
-    endif()
-
-
-#SET(SFML_ROOT "/home/plusls/桌面/SFML-2.4.2/lib/")
 
 
 #Find the SFML lib
-find_package(SFML 2 REQUIRED graphics window network audio system)
-message(${SFML_LIBRARIES})
+find_package(SFML 2 COMPONENTS graphics window network audio system)
+#message(${SFML_LIBRARIES})
 
 #查找多线程库
 find_package(Threads)
 target_link_libraries(game ${CMAKE_THREAD_LIBS_INIT})
 
-#static
-if(SFML_STATIC_LIBRARIES)
-    TARGET_LINK_LIBRARIES(game ${SFML_DEPENDENCIES})
-    SET(CMAKE_EXE_LINKER_FLAGS ${CMAKE_EXE_LINKER_FLAGS} "-static")
-    message(${SFML_DEPENDENCIES})
-endif()
-
 
 if (SFML_FOUND)
     INCLUDE_DIRECTORIES(${SFML_INCLUDE_DIR})
-    TARGET_LINK_LIBRARIES(game ${SFML_LIBRARIES})
+    target_link_libraries(game ${SFML_LIBRARIES})
 endif ()
 
+#static
+if(SFML_STATIC_LIBRARIES)
+    message(${SFML_DEPENDENCIES})
+    target_link_libraries(game ${SFML_DEPENDENCIES})
+    set(CMAKE_EXE_LINKER_FLAGS ${CMAKE_EXE_LINKER_FLAGS} "-static")
+endif()

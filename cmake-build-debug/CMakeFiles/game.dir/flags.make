@@ -6,5 +6,5 @@ CXX_FLAGS =  -O0 -Wall -g   -std=gnu++14
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = 
+CXX_INCLUDES = -I/home/plusls/code/game/SFML/include 
 

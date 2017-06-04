@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
   "../CMakeLists.txt"
+  "../SFML/cmake/Modules/FindSFML.cmake"
   "CMakeFiles/3.7.1/CMakeCCompiler.cmake"
   "CMakeFiles/3.7.1/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.7.1/CMakeSystem.cmake"
@@ -36,7 +37,6 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/home/plusls/program/clion-2017.1.1/bin/cmake/share/cmake-3.7/Modules/Platform/Linux.cmake"
   "/home/plusls/program/clion-2017.1.1/bin/cmake/share/cmake-3.7/Modules/Platform/UnixPaths.cmake"
   "/home/plusls/program/clion-2017.1.1/bin/cmake/share/cmake-3.7/Modules/ProcessorCount.cmake"
-  "/usr/share/SFML/cmake/Modules/FindSFML.cmake"
   )
 
 # The corresponding makefile is:

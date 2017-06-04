@@ -5,7 +5,7 @@
 		<Option title="game"/>
 		<Option makefile_is_custom="1"/>
 		<Option compiler="gcc"/>
-		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\share\;CMake Files\..\..\..\..\usr\share\SFML\;CMake Files\..\..\..\..\usr\share\SFML\cmake\;CMake Files\..\..\..\..\usr\share\SFML\cmake\Modules\;"/>
+		<Option virtualFolders="CMake Files\;CMake Files\SFML\;CMake Files\SFML\cmake\;CMake Files\SFML\cmake\Modules\;"/>
 		<Build>
 			<Target title="all">
 				<Option working_dir="/home/plusls/code/game/cmake-build-debug"/>
@@ -44,6 +44,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
+					<Add directory="/home/plusls/code/game/SFML/include"/>
 					<Add directory="/usr/include/c++/6"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
 					<Add directory="/usr/include/c++/6/backward"/>
@@ -67,6 +68,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
+					<Add directory="/home/plusls/code/game/SFML/include"/>
 					<Add directory="/usr/include/c++/6"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
 					<Add directory="/usr/include/c++/6/backward"/>
@@ -120,8 +122,8 @@
 		<Unit filename="/home/plusls/code/game/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
-		<Unit filename="/home/plusls/code/game/../../../../usr/share/SFML/cmake/Modules/FindSFML.cmake">
-			<Option virtualFolder="CMake Files\..\..\..\..\usr\share\SFML\cmake\Modules\"/>
+		<Unit filename="/home/plusls/code/game/SFML/cmake/Modules/FindSFML.cmake">
+			<Option virtualFolder="CMake Files\SFML\cmake\Modules\"/>
 		</Unit>
 	</Project>
 </CodeBlocks_project_file>

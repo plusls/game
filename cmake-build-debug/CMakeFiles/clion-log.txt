@@ -1,6 +1,5 @@
 /home/plusls/program/clion-2017.1.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/plusls/code/game
--- Found SFML 2.4.2 in /usr/include
-/usr/lib/x86_64-linux-gnu/libsfml-graphics.so/usr/lib/x86_64-linux-gnu/libsfml-window.so/usr/lib/x86_64-linux-gnu/libsfml-network.so/usr/lib/x86_64-linux-gnu/libsfml-audio.so/usr/lib/x86_64-linux-gnu/libsfml-system.so
+-- Found SFML 2.4.2 in /home/plusls/code/game/SFML/include
 -- Configuring done
 -- Generating done
 -- Build files have been written to: /home/plusls/code/game/cmake-build-debug

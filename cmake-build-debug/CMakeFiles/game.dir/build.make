@@ -220,11 +220,11 @@ game: CMakeFiles/game.dir/src/Textures.cpp.o
 game: CMakeFiles/game.dir/src/Draw.cpp.o
 game: CMakeFiles/game.dir/src/GameEvent.cpp.o
 game: CMakeFiles/game.dir/build.make
-game: /usr/lib/x86_64-linux-gnu/libsfml-graphics.so
-game: /usr/lib/x86_64-linux-gnu/libsfml-window.so
-game: /usr/lib/x86_64-linux-gnu/libsfml-network.so
-game: /usr/lib/x86_64-linux-gnu/libsfml-audio.so
-game: /usr/lib/x86_64-linux-gnu/libsfml-system.so
+game: ../SFML/lib/libsfml-graphics.so
+game: ../SFML/lib/libsfml-window.so
+game: ../SFML/lib/libsfml-network.so
+game: ../SFML/lib/libsfml-audio.so
+game: ../SFML/lib/libsfml-system.so
 game: CMakeFiles/game.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/plusls/code/game/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable game"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/game.dir/link.txt --verbose=$(VERBOSE)
