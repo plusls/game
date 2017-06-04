@@ -25,8 +25,8 @@ set(CMAKE_CXX_FLAGS_RELEASE "$ENV{CXXFLAGS} -O3 -Wall")
 if(${CMAKE_SYSTEM_NAME} MATCHES "Linux")
     #Set CMake's module path to find the SFML Lib
     #set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} "/usr/share/SFML/cmake/Modules/")
-    set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} "${PROJECT_SOURCE_DIR}/SFML/cmake/Modules/")
-    set(SFML_ROOT "SFML/")
+    set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} "${PROJECT_SOURCE_DIR}/lib/SFML/cmake/Modules/")
+    set(SFML_ROOT "lib/SFML/")
 
 
 elseif(${CMAKE_SYSTEM_NAME} MATCHES "Windows")

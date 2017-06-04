@@ -12,7 +12,763 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f34baf70-a960-433f-9018-ad58b34e3cd1" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/CMakeLists.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/CONTRIBUTING" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/changelog.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/cmake/Config.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/cmake/Macros.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/cmake/Modules/FindEGL.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/cmake/Modules/FindFLAC.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/cmake/Modules/FindFreetype.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/cmake/Modules/FindGLES.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/cmake/Modules/FindSFML.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/cmake/Modules/FindUDev.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/cmake/Modules/FindVorbis.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/cmake/toolchains/android.toolchain.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/doc/CMakeLists.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/doc/doxyfile.in" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/doc/doxygen.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/doc/footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/doc/header.html.in" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/doc/mainpage.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/CMakeLists.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/X11/CMakeLists.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/X11/X11.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/android/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/android/assets/canary.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/android/assets/image.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/android/assets/orchestral.ogg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/android/assets/sansation.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/android/jni/Android.mk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/android/jni/Application.mk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/android/jni/main.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/android/res/drawable-hdpi/sfml_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/android/res/drawable-ldpi/sfml_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/android/res/drawable-mdpi/sfml_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/android/res/drawable-xhdpi/sfml_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/android/res/drawable-xxhdpi/sfml_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/android/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/cocoa/CMakeLists.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/cocoa/CocoaAppDelegate.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/cocoa/CocoaAppDelegate.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/cocoa/MainMenu.xib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/cocoa/NSString+stdstring.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/cocoa/NSString+stdstring.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/cocoa/main.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/cocoa/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/cocoa/resources/Cocoa-Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/cocoa/resources/Credits.rtf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/cocoa/resources/blue.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/cocoa/resources/green.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/cocoa/resources/icon.icns" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/cocoa/resources/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/cocoa/resources/red.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/cocoa/resources/sansation.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/ftp/CMakeLists.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/ftp/Ftp.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/opengl/CMakeLists.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/opengl/OpenGL.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/opengl/resources/background.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/opengl/resources/sansation.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/opengl/resources/texture.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/pong/CMakeLists.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/pong/Pong.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/pong/resources/ball.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/pong/resources/sansation.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/shader/CMakeLists.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/shader/Effect.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/shader/Shader.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/shader/resources/background.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/shader/resources/billboard.frag" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/shader/resources/billboard.geom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/shader/resources/billboard.vert" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/shader/resources/blink.frag" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/shader/resources/blur.frag" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/shader/resources/devices.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/shader/resources/edge.frag" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/shader/resources/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/shader/resources/pixelate.frag" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/shader/resources/sansation.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/shader/resources/sfml.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/shader/resources/storm.vert" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/shader/resources/text-background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/shader/resources/wave.vert" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/sockets/CMakeLists.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/sockets/Sockets.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/sockets/TCP.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/sockets/UDP.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/sound/CMakeLists.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/sound/Sound.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/sound/resources/canary.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/sound/resources/ding.flac" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/sound/resources/orchestral.ogg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/sound_capture/CMakeLists.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/sound_capture/SoundCapture.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/voip/CMakeLists.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/voip/Client.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/voip/Server.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/voip/VoIP.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/win32/CMakeLists.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/win32/Win32.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/win32/resources/image1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/win32/resources/image2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/window/CMakeLists.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/examples/window/Window.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/Android.mk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/bin/x64/openal32.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/bin/x86/openal32.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/AL/al.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/AL/alc.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/AL/alext.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/AL/efx-creative.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/AL/efx-presets.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/AL/efx.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/FLAC/all.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/FLAC/assert.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/FLAC/callback.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/FLAC/export.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/FLAC/format.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/FLAC/metadata.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/FLAC/ordinals.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/FLAC/stream_decoder.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/FLAC/stream_encoder.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/config/ftconfig.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/config/ftheader.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/config/ftmodule.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/config/ftoption.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/config/ftstdlib.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/freetype.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ft2build.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ftadvanc.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ftautoh.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ftbbox.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ftbdf.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ftbitmap.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ftbzip2.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ftcache.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ftcffdrv.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ftchapters.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ftcid.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/fterrdef.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/fterrors.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ftgasp.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ftglyph.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ftgxval.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ftgzip.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ftimage.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ftincrem.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ftlcdfil.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ftlist.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ftlzw.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ftmac.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ftmm.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ftmodapi.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ftmoderr.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ftotval.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ftoutln.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ftpfr.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ftrender.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ftsizes.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ftsnames.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ftstroke.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ftsynth.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ftsystem.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/fttrigon.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ftttdrv.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/fttypes.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ftwinfnt.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ftxf86.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/t1tables.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ttnameid.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/tttables.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/tttags.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/freetype2/ttunpat.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/jpeg/jconfig.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/jpeg/jerror.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/jpeg/jmorecfg.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/jpeg/jpeglib.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/ogg/config_types.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/ogg/ogg.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/ogg/os_types.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/stb_image/stb_image.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/stb_image/stb_image_write.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/vorbis/codec.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/vorbis/vorbisenc.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/headers/vorbis/vorbisfile.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-android/armeabi-v7a/libFLAC++.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-android/armeabi-v7a/libFLAC.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-android/armeabi-v7a/libfreetype.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-android/armeabi-v7a/libjpeg.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-android/armeabi-v7a/libogg.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-android/armeabi-v7a/libopenal.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-android/armeabi-v7a/libvorbis.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-android/armeabi-v7a/libvorbisenc.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-android/armeabi-v7a/libvorbisfile.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-android/armeabi/libFLAC++.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-android/armeabi/libFLAC.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-android/armeabi/libfreetype.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-android/armeabi/libjpeg.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-android/armeabi/libogg.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-android/armeabi/libopenal.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-android/armeabi/libvorbis.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-android/armeabi/libvorbisenc.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-android/armeabi/libvorbisfile.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-android/mips/libFLAC++.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-android/mips/libFLAC.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-android/mips/libfreetype.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-android/mips/libjpeg.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-android/mips/libogg.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-android/mips/libopenal.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-android/mips/libvorbis.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-android/mips/libvorbisenc.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-android/mips/libvorbisfile.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-android/x86/libFLAC++.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-android/x86/libFLAC.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-android/x86/libfreetype.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-android/x86/libjpeg.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-android/x86/libogg.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-android/x86/libopenal.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-android/x86/libvorbis.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-android/x86/libvorbisenc.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-android/x86/libvorbisfile.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-ios/libflac.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-ios/libfreetype.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-ios/libjpeg.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-ios/libogg.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-ios/libvorbis.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-ios/libvorbisenc.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-ios/libvorbisfile.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-mingw/x64/libFLAC.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-mingw/x64/libfreetype.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-mingw/x64/libjpeg.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-mingw/x64/libogg.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-mingw/x64/libopenal32.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-mingw/x64/libvorbis.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-mingw/x64/libvorbisenc.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-mingw/x64/libvorbisfile.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-mingw/x86/libFLAC.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-mingw/x86/libfreetype.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-mingw/x86/libjpeg.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-mingw/x86/libogg.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-mingw/x86/libopenal32.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-mingw/x86/libvorbis.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-mingw/x86/libvorbisenc.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-mingw/x86/libvorbisfile.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-msvc-universal/x64/flac.lib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-msvc-universal/x64/freetype.lib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-msvc-universal/x64/jpeg.lib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-msvc-universal/x64/ogg.lib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-msvc-universal/x64/openal32.lib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-msvc-universal/x64/vorbis.lib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-msvc-universal/x64/vorbisenc.lib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-msvc-universal/x64/vorbisfile.lib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-msvc-universal/x86/flac.lib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-msvc-universal/x86/freetype.lib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-msvc-universal/x86/jpeg.lib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-msvc-universal/x86/ogg.lib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-msvc-universal/x86/openal32.lib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-msvc-universal/x86/vorbis.lib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-msvc-universal/x86/vorbisenc.lib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-msvc-universal/x86/vorbisfile.lib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-msvc/x64/flac.lib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-msvc/x64/freetype.lib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-msvc/x64/jpeg.lib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-msvc/x64/ogg.lib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-msvc/x64/openal32.lib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-msvc/x64/vorbis.lib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-msvc/x64/vorbisenc.lib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-msvc/x64/vorbisfile.lib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-msvc/x86/flac.lib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-msvc/x86/freetype.lib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-msvc/x86/jpeg.lib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-msvc/x86/ogg.lib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-msvc/x86/openal32.lib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-msvc/x86/vorbis.lib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-msvc/x86/vorbisenc.lib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-msvc/x86/vorbisfile.lib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-osx/Frameworks/FLAC.framework/FLAC" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-osx/Frameworks/FLAC.framework/Resources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-osx/Frameworks/FLAC.framework/Versions/A/FLAC" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-osx/Frameworks/FLAC.framework/Versions/A/Resources/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-osx/Frameworks/FLAC.framework/Versions/Current" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-osx/Frameworks/OpenAL.framework/OpenAL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-osx/Frameworks/OpenAL.framework/Resources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-osx/Frameworks/OpenAL.framework/Versions/A/OpenAL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-osx/Frameworks/OpenAL.framework/Versions/A/Resources/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-osx/Frameworks/OpenAL.framework/Versions/Current" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-osx/Frameworks/freetype.framework/Resources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-osx/Frameworks/freetype.framework/Versions/A/Resources/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-osx/Frameworks/freetype.framework/Versions/A/freetype" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-osx/Frameworks/freetype.framework/Versions/Current" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-osx/Frameworks/freetype.framework/freetype" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-osx/Frameworks/ogg.framework/Resources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-osx/Frameworks/ogg.framework/Versions/A/Resources/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-osx/Frameworks/ogg.framework/Versions/A/ogg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-osx/Frameworks/ogg.framework/Versions/Current" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-osx/Frameworks/ogg.framework/ogg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-osx/Frameworks/vorbis.framework/Resources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-osx/Frameworks/vorbis.framework/Versions/A/Resources/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-osx/Frameworks/vorbis.framework/Versions/A/vorbis" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-osx/Frameworks/vorbis.framework/Versions/Current" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-osx/Frameworks/vorbis.framework/vorbis" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-osx/Frameworks/vorbisenc.framework/Resources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-osx/Frameworks/vorbisenc.framework/Versions/A/Resources/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-osx/Frameworks/vorbisenc.framework/Versions/A/vorbisenc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-osx/Frameworks/vorbisenc.framework/Versions/Current" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-osx/Frameworks/vorbisenc.framework/vorbisenc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-osx/Frameworks/vorbisfile.framework/Resources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-osx/Frameworks/vorbisfile.framework/Versions/A/Resources/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-osx/Frameworks/vorbisfile.framework/Versions/A/vorbisfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-osx/Frameworks/vorbisfile.framework/Versions/Current" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-osx/Frameworks/vorbisfile.framework/vorbisfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/extlibs/libs-osx/lib/libjpeg.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Audio.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Audio/AlResource.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Audio/Export.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Audio/InputSoundFile.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Audio/Listener.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Audio/Music.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Audio/OutputSoundFile.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Audio/Sound.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Audio/SoundBuffer.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Audio/SoundBufferRecorder.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Audio/SoundFileFactory.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Audio/SoundFileFactory.inl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Audio/SoundFileReader.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Audio/SoundFileWriter.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Audio/SoundRecorder.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Audio/SoundSource.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Audio/SoundStream.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Config.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Graphics.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Graphics/BlendMode.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Graphics/CircleShape.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Graphics/Color.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Graphics/ConvexShape.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Graphics/Drawable.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Graphics/Export.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Graphics/Font.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Graphics/Glsl.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Graphics/Glsl.inl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Graphics/Glyph.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Graphics/Image.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Graphics/PrimitiveType.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Graphics/Rect.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Graphics/Rect.inl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Graphics/RectangleShape.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Graphics/RenderStates.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Graphics/RenderTarget.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Graphics/RenderTexture.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Graphics/RenderWindow.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Graphics/Shader.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Graphics/Shape.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Graphics/Sprite.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Graphics/Text.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Graphics/Texture.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Graphics/Transform.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Graphics/Transformable.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Graphics/Vertex.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Graphics/VertexArray.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Graphics/View.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Main.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Network.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Network/Export.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Network/Ftp.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Network/Http.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Network/IpAddress.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Network/Packet.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Network/Socket.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Network/SocketHandle.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Network/SocketSelector.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Network/TcpListener.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Network/TcpSocket.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Network/UdpSocket.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/OpenGL.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/System.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/System/Clock.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/System/Err.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/System/Export.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/System/FileInputStream.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/System/InputStream.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/System/Lock.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/System/MemoryInputStream.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/System/Mutex.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/System/NativeActivity.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/System/NonCopyable.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/System/Sleep.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/System/String.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/System/String.inl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/System/Thread.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/System/Thread.inl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/System/ThreadLocal.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/System/ThreadLocalPtr.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/System/ThreadLocalPtr.inl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/System/Time.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/System/Utf.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/System/Utf.inl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/System/Vector2.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/System/Vector2.inl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/System/Vector3.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/System/Vector3.inl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Window.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Window/Context.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Window/ContextSettings.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Window/Event.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Window/Export.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Window/GlResource.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Window/Joystick.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Window/Keyboard.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Window/Mouse.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Window/Sensor.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Window/Touch.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Window/VideoMode.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Window/Window.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Window/WindowHandle.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/include/SFML/Window/WindowStyle.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/lib/libsfml-audio-s.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/lib/libsfml-audio.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/lib/libsfml-audio.so.2.4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/lib/libsfml-audio.so.2.4.2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/lib/libsfml-graphics-s.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/lib/libsfml-graphics.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/lib/libsfml-graphics.so.2.4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/lib/libsfml-graphics.so.2.4.2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/lib/libsfml-network-s.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/lib/libsfml-network.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/lib/libsfml-network.so.2.4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/lib/libsfml-network.so.2.4.2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/lib/libsfml-system-s.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/lib/libsfml-system.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/lib/libsfml-system.so.2.4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/lib/libsfml-system.so.2.4.2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/lib/libsfml-window-s.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/lib/libsfml-window.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/lib/libsfml-window.so.2.4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/lib/libsfml-window.so.2.4.2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Android.mk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Audio/ALCheck.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Audio/ALCheck.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Audio/AlResource.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Audio/AudioDevice.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Audio/AudioDevice.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Audio/CMakeLists.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Audio/InputSoundFile.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Audio/Listener.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Audio/Music.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Audio/OutputSoundFile.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Audio/Sound.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Audio/SoundBuffer.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Audio/SoundBufferRecorder.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Audio/SoundFileFactory.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Audio/SoundFileReaderFlac.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Audio/SoundFileReaderFlac.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Audio/SoundFileReaderOgg.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Audio/SoundFileReaderOgg.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Audio/SoundFileReaderWav.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Audio/SoundFileReaderWav.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Audio/SoundFileWriterFlac.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Audio/SoundFileWriterFlac.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Audio/SoundFileWriterOgg.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Audio/SoundFileWriterOgg.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Audio/SoundFileWriterWav.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Audio/SoundFileWriterWav.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Audio/SoundRecorder.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Audio/SoundSource.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Audio/SoundStream.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/CMakeLists.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/BlendMode.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/CMakeLists.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/CircleShape.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/Color.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/ConvexShape.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/Font.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/GLCheck.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/GLCheck.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/GLExtensions.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/GLExtensions.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/GLExtensions.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/GLLoader.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/GLLoader.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/Glsl.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/Image.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/ImageLoader.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/ImageLoader.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/RectangleShape.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/RenderStates.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/RenderTarget.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/RenderTexture.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/RenderTextureImpl.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/RenderTextureImpl.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/RenderTextureImplDefault.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/RenderTextureImplDefault.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/RenderTextureImplFBO.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/RenderTextureImplFBO.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/RenderWindow.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/Shader.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/Shape.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/Sprite.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/Text.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/Texture.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/TextureSaver.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/TextureSaver.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/Transform.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/Transformable.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/Vertex.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/VertexArray.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Graphics/View.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Main/CMakeLists.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Main/MainAndroid.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Main/MainWin32.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Main/MainiOS.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Main/SFMLActivity.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Network/CMakeLists.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Network/Ftp.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Network/Http.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Network/IpAddress.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Network/Packet.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Network/Socket.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Network/SocketImpl.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Network/SocketSelector.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Network/TcpListener.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Network/TcpSocket.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Network/UdpSocket.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Network/Unix/SocketImpl.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Network/Unix/SocketImpl.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Network/Win32/SocketImpl.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Network/Win32/SocketImpl.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/Android/Activity.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/Android/Activity.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/Android/NativeActivity.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/Android/ResourceStream.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/Android/ResourceStream.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/CMakeLists.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/Clock.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/Err.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/FileInputStream.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/Lock.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/MemoryInputStream.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/Mutex.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/Sleep.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/String.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/Thread.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/ThreadLocal.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/Time.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/Unix/ClockImpl.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/Unix/ClockImpl.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/Unix/MutexImpl.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/Unix/MutexImpl.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/Unix/SleepImpl.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/Unix/SleepImpl.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/Unix/ThreadImpl.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/Unix/ThreadImpl.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/Unix/ThreadLocalImpl.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/Unix/ThreadLocalImpl.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/Win32/ClockImpl.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/Win32/ClockImpl.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/Win32/MutexImpl.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/Win32/MutexImpl.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/Win32/SleepImpl.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/Win32/SleepImpl.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/Win32/ThreadImpl.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/Win32/ThreadImpl.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/Win32/ThreadLocalImpl.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/System/Win32/ThreadLocalImpl.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Android/InputImpl.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Android/InputImpl.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Android/JoystickImpl.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Android/JoystickImpl.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Android/SensorImpl.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Android/SensorImpl.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Android/VideoModeImpl.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Android/WindowImplAndroid.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Android/WindowImplAndroid.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/CMakeLists.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Context.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/EGLCheck.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/EGLCheck.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/EglContext.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/EglContext.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/FreeBSD/JoystickImpl.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/FreeBSD/JoystickImpl.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/GlContext.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/GlContext.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/GlResource.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/InputImpl.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Joystick.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/JoystickImpl.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/JoystickManager.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/JoystickManager.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Keyboard.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Mouse.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/AutoreleasePoolWrapper.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/AutoreleasePoolWrapper.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/HIDInputManager.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/HIDInputManager.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/HIDJoystickManager.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/HIDJoystickManager.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/InputImpl.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/InputImpl.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/JoystickImpl.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/JoystickImpl.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/NSImage+raw.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/NSImage+raw.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/SFApplication.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/SFApplication.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/SFApplicationDelegate.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/SFApplicationDelegate.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/SFContext.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/SFContext.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/SFKeyboardModifiersHelper.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/SFKeyboardModifiersHelper.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/SFOpenGLView+keyboard.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/SFOpenGLView+keyboard_priv.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/SFOpenGLView+mouse.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/SFOpenGLView+mouse_priv.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/SFOpenGLView.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/SFOpenGLView.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/SFSilentResponder.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/SFSilentResponder.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/SFViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/SFViewController.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/SFWindow.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/SFWindow.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/SFWindowController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/SFWindowController.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/Scaling.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/SensorImpl.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/SensorImpl.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/VideoModeImpl.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/WindowImplCocoa.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/WindowImplCocoa.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/WindowImplDelegateProtocol.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/cg_sf_conversion.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/cg_sf_conversion.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/cpp_objc_conversion.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/OSX/cpp_objc_conversion.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Sensor.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/SensorImpl.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/SensorManager.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/SensorManager.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Touch.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Unix/Display.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Unix/Display.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Unix/GlxContext.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Unix/GlxContext.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Unix/GlxExtensions.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Unix/GlxExtensions.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Unix/GlxExtensions.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Unix/InputImpl.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Unix/InputImpl.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Unix/JoystickImpl.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Unix/JoystickImpl.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Unix/SensorImpl.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Unix/SensorImpl.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Unix/VideoModeImpl.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Unix/WindowImplX11.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Unix/WindowImplX11.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/VideoMode.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/VideoModeImpl.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Win32/InputImpl.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Win32/InputImpl.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Win32/JoystickImpl.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Win32/JoystickImpl.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Win32/SensorImpl.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Win32/SensorImpl.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Win32/VideoModeImpl.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Win32/WglContext.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Win32/WglContext.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Win32/WglExtensions.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Win32/WglExtensions.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Win32/WglExtensions.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Win32/WindowImplWin32.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Win32/WindowImplWin32.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/Window.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/WindowImpl.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/WindowImpl.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/iOS/EaglContext.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/iOS/EaglContext.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/iOS/InputImpl.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/iOS/InputImpl.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/iOS/JoystickImpl.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/iOS/JoystickImpl.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/iOS/ObjCType.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/iOS/SFAppDelegate.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/iOS/SFAppDelegate.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/iOS/SFMain.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/iOS/SFMain.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/iOS/SFView.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/iOS/SFView.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/iOS/SFViewController.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/iOS/SFViewController.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/iOS/SensorImpl.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/iOS/SensorImpl.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/iOS/VideoModeImpl.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/iOS/WindowImplUIKit.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/src/SFML/Window/iOS/WindowImplUIKit.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/android/clean_all.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/android/compile_arm-v7a.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/android/compile_arm.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/android/compile_libs.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/android/compile_mips.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/android/compile_x86.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/android/create_toolchains.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/android/download_sources.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/android/make_all.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/android/patches/remove-so-version-suffix.diff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/android/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/pkg-config/sfml-all.pc.in" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/pkg-config/sfml-audio.pc.in" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/pkg-config/sfml-graphics.pc.in" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/pkg-config/sfml-network.pc.in" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/pkg-config/sfml-system.pc.in" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/pkg-config/sfml-window.pc.in" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/xcode/templates/SFML/SFML App.xctemplate/ResourcePath.hpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/xcode/templates/SFML/SFML App.xctemplate/ResourcePath.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/xcode/templates/SFML/SFML App.xctemplate/TemplateIcon.icns" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/xcode/templates/SFML/SFML App.xctemplate/TemplateInfo.plist.in" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/xcode/templates/SFML/SFML App.xctemplate/cute_image.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/xcode/templates/SFML/SFML App.xctemplate/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/xcode/templates/SFML/SFML App.xctemplate/main.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/xcode/templates/SFML/SFML App.xctemplate/nice_music.ogg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/xcode/templates/SFML/SFML App.xctemplate/sansation.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/xcode/templates/SFML/SFML Base.xctemplate/TemplateInfo.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/xcode/templates/SFML/SFML Bundle.xctemplate/TemplateInfo.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/xcode/templates/SFML/SFML CLT.xctemplate/TemplateIcon.icns" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/xcode/templates/SFML/SFML CLT.xctemplate/TemplateInfo.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/xcode/templates/SFML/SFML CLT.xctemplate/cute_image.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/xcode/templates/SFML/SFML CLT.xctemplate/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/xcode/templates/SFML/SFML CLT.xctemplate/main.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/xcode/templates/SFML/SFML CLT.xctemplate/nice_music.ogg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/xcode/templates/SFML/SFML CLT.xctemplate/sansation.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/xcode/templates/SFML/SFML Compiler.xctemplate/TemplateInfo.plist.in" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/xcode/templates/SFML/SFML Linker.xctemplate/TemplateInfo.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SFML/tools/xcode/templates/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/game.dir/src/Draw.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/game.dir/src/FlyingObject.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/game.dir/src/GameControl.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/game.dir/src/GameEvent.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/game.dir/src/Textures.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/game.dir/src/main.cpp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/game" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/play_plane.cbp" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeError.log" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeError.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/game.dir/CXX.includecache" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/game.dir/CXX.includecache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/game.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/game.dir/DependInfo.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/game.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/game.dir/build.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/game.dir/depend.internal" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/game.dir/depend.internal" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/game.dir/depend.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/game.dir/depend.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/game.dir/flags.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/game.dir/flags.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/game.dir/link.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/game.dir/link.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/game.cbp" afterPath="$PROJECT_DIR$/cmake-build-debug/game.cbp" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug1/" />
@@ -44,18 +800,8 @@
       <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindSFML.cmake" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SFML/cmake/Modules/FindSFML.cmake">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="248" column="22" lean-forward="false" selection-start-line="248" selection-start-column="22" selection-end-line="248" selection-end-column="22" />
+            <state relative-caret-position="255">
+              <caret line="32" column="36" lean-forward="false" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -566,12 +1312,12 @@
       <workItem from="1496592287210" duration="2000000" />
       <workItem from="1496594303984" duration="1146000" />
       <workItem from="1496595467316" duration="13000" />
-      <workItem from="1496595548157" duration="3968000" />
+      <workItem from="1496595548157" duration="4222000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137403000" />
+    <option name="totallyTimeSpent" value="137657000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -583,7 +1329,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="25" width="1362" height="744" extended-state="7" />
+    <frame x="-1" y="25" width="1362" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2800609" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
@@ -918,8 +1664,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+        <state relative-caret-position="255">
+          <caret line="32" column="36" lean-forward="false" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="36" />
           <folding />
         </state>
       </provider>
