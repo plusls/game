@@ -33,27 +33,21 @@ void drawBackGround(sf::RenderTarget* background)
 void drawFlyingObject(sf::RenderTarget* background)
 {
     static int count = 0;
-    flyingObjectList.remove_if(isRemoveObject);
+    flyingObjectList.remove_if(FlyingObject::isRemoveObject);
+
     for(auto object : flyingObjectList)
     {
         object->draw(count);
+        int objectType = object->getType();
+        if (objectType == 1|| objectType == 3) //如果是子弹则进行碰撞检测
+            ((Bullet*)object)->checkCollision();
         background->draw(*object);
     }
     ++count;
     count %= 200;
 }
 
-bool isRemoveObject(FlyingObject *flyingobject)
-{
-    if((*flyingobject).clock.getElapsedTime() >= flyingobject->lifetime && flyingobject->type != 1)
-    {
-        return true;
-    }
-    else
-    {
-        return false;
-    }
-}
+
 
 void updateScoreboard()
 {
@@ -76,9 +70,12 @@ void updateWindow()
         updateScoreboard();
         window->draw(sf::Sprite(scoreboard->getTexture()));
     }
+
     background[stage]->clear();//清空画板
     drawBackGround(background[stage]);//画背景
+
     drawFlyingObject(background[stage]);//画飞行物体
+
     background[stage]->display();//显示 否则图像是倒着的
     backgroundSprite.setPosition(36, 20);
     backgroundSprite.setTexture(background[stage]->getTexture());

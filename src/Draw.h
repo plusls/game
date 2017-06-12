@@ -8,8 +8,6 @@
 #include "FlyingObject.h"
 #include <list>
 
-//extern std::list<sf::Drawable*> drawList;
-
 extern std::list<FlyingObject*> flyingObjectList;
 
 void drawBackGround(sf::RenderTarget* window);
@@ -24,5 +22,4 @@ void updateScoreboard();
 
 void updateWindow();
 
-bool isRemoveObject(FlyingObject*);
 #endif //GAME_DRAW_H

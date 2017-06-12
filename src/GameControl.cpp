@@ -5,6 +5,9 @@
 #include "GameControl.h"
 #include <unistd.h>
 #include "GameEvent.h"
+#include <SFML/Audio.hpp>
+#include "Sounds.h"
+
 //全局变量
 const std::string RESOURCE_DIR = "../resources/";
 int gameWindowWidth = 382, gameWindowHeight = 446;//游戏范围宽 高
@@ -44,11 +47,15 @@ bool newGameStage = true;
 //游戏时钟
 sf::Clock gameClock;
 
+//bgm
+sf::Music music;
+
 
 void initialization()
 {
     window = new sf::RenderWindow(sf::VideoMode(windowWidth, windowHeight), "东方妖妖梦"); //窗口设置
     window->setFramerateLimit(120); //设置fps
+
 
     //纹理
     backgroundTexture = new sf::Texture;
@@ -62,7 +69,7 @@ void initialization()
 
 
     //测试时不加载
-    loadLogoBackground();//加载背景
+    //loadLogoBackground();//加载背景
 
     for (int i = 1; i < 7; ++i)
     {
@@ -71,13 +78,13 @@ void initialization()
     }
 
     //初始化玩家
-    player = new Player(0);//载入玩家
-    player->setPosition(player->playerTexture->Width/2, player->playerTexture->Height/2);
+    player = new Reimu_1;//载入玩家
+    player->setPosition(PlayerTextureWidth / 2, PlayerTextureHeight/2);
     judgePoint = new JudgePoint(player);//载入判定点
 
     //速度
-    defaultPlayerSpeed = 7;
-    slowPlayerSpeed = 3;
+    defaultPlayerSpeed = 5;
+    slowPlayerSpeed = 2;
 
     addFlyingObject(player);
     addFlyingObject(judgePoint);
@@ -95,6 +102,7 @@ void loadLogoBackground()//加载背景
 
 void gameContinue()
 {
+
     sf::Event event;
     while (window->pollEvent(event))
     {
@@ -112,24 +120,39 @@ void gameContinue()
             //printf("keyreleased %d\n", event.key.code);
         }
     }
+
     if (stage == 0)
     {
 
     }
     else
     {
+
         if (newGameStage == true)
         {
             gameClock.restart();
+            printf("%d", music.openFromFile("../resources/sound/Deep Mountain.wav"));
+            music.play();
             newGameStage = false;
         }
+
+        //玩家碰撞检测 必须放在时间表前
+        player->checkCollision();
+
         timeTableControl();
         watchKey();
+
+
+        //更新窗口
         updateWindow();
+
+        //清理声音
+        soundList.remove_if(Sound::isRemoveSound);
 
         //清空状态
         player->setDirection(sf::Vector2f(0, 0));
         judgePoint->setJudgePointStatus(false);
+
     }
 }
 
@@ -138,10 +161,10 @@ void gameContinue()
 void watchKey()
 {
     sf::Vector2f direction;
-    player->speed = defaultPlayerSpeed;
+    player->setSpeed(defaultPlayerSpeed);
     if (sf::Keyboard::isKeyPressed(sf::Keyboard::LShift))
     {
-        player->speed = slowPlayerSpeed;
+        player->setSpeed(slowPlayerSpeed);
         judgePoint->setJudgePointStatus(true);
     }
     if (sf::Keyboard::isKeyPressed(sf::Keyboard::Up))
@@ -198,67 +221,28 @@ void watchKey()
     {
         if (gameClock.getElapsedTime().asMicroseconds() % 200 < 100)
         {
-            int type[3] = {0, 0, 0};
-            shot(player, type, sf::Vector2f(0, -1));
-            if (sf::Keyboard::isKeyPressed(sf::Keyboard::LShift))
-            {
-                type[2] = 2;
-            }
-            else
-            {
-                type[2] = 1;
-            }
-            shot(player, type, sf::Vector2f(0, -1));
-        }
-    }
-}
-
-void shot(FlyingObject *flyingObject, int type[3], sf::Vector2f direction)
-{
-    Bullet *bullet;
-    sf::Vector2f pos = flyingObject->getPosition();
-    if (flyingObject->type == 1)
-    {
-        bullet = new PlayerBullet;
-        bullet->setBulletType(type);
-        bullet->setDirection(direction);
-        if (type[2] == 1)
-        {
-            bullet->setPosition(pos.x - ((Player*)flyingObject)->playerTexture->Width / 2,
-                                pos.y - ((Player*)flyingObject)->playerTexture->Height / 2);
-            flyingObjectList.push_back(bullet);
-
-            bullet = new PlayerBullet;
-            bullet->setBulletType(type);
-            bullet->setDirection(direction);
-            bullet->setPosition(pos.x + ((Player*)flyingObject)->playerTexture->Width / 2,
-                                pos.y - ((Player*)flyingObject)->playerTexture->Height / 2);
-            flyingObjectList.push_back(bullet);
-        }
-        else
-        {
-            bullet->setPosition(pos.x, pos.y - ((Player*)flyingObject)->playerTexture->Height / 2);
-            flyingObjectList.push_back(bullet);
+            player->shot(sf::Keyboard::isKeyPressed(sf::Keyboard::LShift));
         }
     }
 }
 
 void timeTableControl()
 {
-    bool gameEvent[10];
     sf::Time nowTime = gameClock.getElapsedTime();
     for (int i = 0; i < 10; ++i)
     {
-        gameEvent[i] = false;
-    }
-    for (int i = 0; i < 10; ++i)
-    {
-        if (gameEvent[i] == false && nowTime > timeTable[i])
+        if (nowTime > timeTable[i] && gameEventList[i] != NULL)
         {
-            gameEvent[i] = true;
-            stage1_1.process();
+            gameEventList[i]->process();
+            //stage1_1.process();
         }
     }
 }
 
-//void first
+bool isPosInGameWindow(const sf::Vector2f &pos)
+{
+    if (pos.x >0 && pos.x < gameWindowWidth && pos.y > 0 && pos.y < gameWindowHeight)
+        return true;
+    else
+        return false;
+}

@@ -4,8 +4,14 @@
 
 #include "Textures.h"
 
+//玩家纹理信息
+int PlayerTextureHeight=48, PlayerTextureWidth=32;
+
 //判定点纹理
 JudgePointTexture judgePointTexture;
+
+//死亡纹理
+DeathTexture deathTexture;
 
 //玩家纹理
 ReimuTexture reimuTexture;
@@ -14,7 +20,8 @@ ReimuTexture reimuTexture;
 MosterTexture_1 mosterTexture_1;
 
 //玩家子弹纹理预加载
-ReimuBulletTexture reimuBulletTexture[2] = {ReimuBulletTexture(0), ReimuBulletTexture(1)};
+ReimuBulletTexture_1 reimuBulletTexture_1;
+ReimuBulletTexture_2 reimuBulletTexture_2;
 
 //怪物子弹纹理预加载
 
@@ -45,6 +52,16 @@ void GameRoleTexture::loadTextures()
     }
 }
 
+GameRoleTexture::~GameRoleTexture()
+{
+    for (int i = 0; i < PosSize; ++i)
+    {
+        delete Pos[i];
+    }
+    delete Pos;
+}
+
+
 ReimuTexture::ReimuTexture()
 {
     PosSize = 2;
@@ -73,20 +90,23 @@ JudgePointTexture::JudgePointTexture()
     loadFromFile("../resources/image/etama2.png", sf::IntRect(0, 112, 64, 64));
 };
 
-ReimuBulletTexture::ReimuBulletTexture(int type)
+DeathTexture::DeathTexture()
 {
-    if (type == 0)
-    {
-        centerBullet.loadFromFile("../resources/image/player00.png", sf::IntRect(128, 0, 16, 16));
-        sideBullet.loadFromFile("../resources/image/player00.png", sf::IntRect(144, 0, 16, 16));
-        slowBullet.loadFromFile("../resources/image/player00.png", sf::IntRect(208, 0, 32, 32));
-    }
-    else
-    {
-        centerBullet.loadFromFile("../resources/image/player00.png", sf::IntRect(128, 0, 16, 16));
-        sideBullet.loadFromFile("../resources/image/player00.png", sf::IntRect(192, 0, 16, 48));
-        slowBullet.loadFromFile("../resources/image/player00.png", sf::IntRect(0, 160, 32, 64));
-    }
+    loadFromFile("../resources/image/etama2.png", sf::IntRect(192, 176, 64, 64));
+};
+
+ReimuBulletTexture_1::ReimuBulletTexture_1()
+{
+    centerBullet.loadFromFile("../resources/image/player00.png", sf::IntRect(128, 0, 16, 16));
+    sideBullet.loadFromFile("../resources/image/player00.png", sf::IntRect(144, 0, 16, 16));
+    slowBullet.loadFromFile("../resources/image/player00.png", sf::IntRect(208, 0, 32, 32));
+}
+
+ReimuBulletTexture_2::ReimuBulletTexture_2()
+{
+    centerBullet.loadFromFile("../resources/image/player00.png", sf::IntRect(128, 0, 16, 16));
+    sideBullet.loadFromFile("../resources/image/player00.png", sf::IntRect(192, 0, 16, 48));
+    slowBullet.loadFromFile("../resources/image/player00.png", sf::IntRect(0, 160, 32, 64));
 }
 
 MosterTexture_1::MosterTexture_1()

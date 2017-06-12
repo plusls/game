@@ -55,6 +55,6 @@ void initialization(); //初始化
 void gameContinue(); //继续游戏
 void watchKey();
 void loadLogoBackground();//打开游戏时显示背景
-void shot(FlyingObject *flyingObject, int type[3], sf::Vector2f direction);//射击
 void timeTableControl();
+bool isPosInGameWindow(const sf::Vector2f &pos);
 #endif //GAME_GAMECONTROL_H

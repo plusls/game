@@ -3,7 +3,7 @@ project(game)
 
 set(CMAKE_CXX_STANDARD 14)
 
-set(SOURCE_FILES src/main.cpp src/GameControl.cpp src/GameControl.h src/FlyingObject.cpp src/FlyingObject.h src/Textures.cpp src/Textures.h src/Draw.cpp src/Draw.h src/GameEvent.cpp src/GameEvent.h)
+set(SOURCE_FILES src/main.cpp src/GameControl.cpp src/GameControl.h src/FlyingObject.cpp src/FlyingObject.h src/Textures.cpp src/Textures.h src/Draw.cpp src/Draw.h src/GameEvent.cpp src/GameEvent.h src/Sounds.cpp src/Sounds.h)
 add_executable(game ${SOURCE_FILES})
 
 #static
